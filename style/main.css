@@ -45,3 +45,7 @@ main {
 .content p {
   margin-top: 16px;
 }
+
+.hidden-cloudflare-error {
+  display: none;
+}
